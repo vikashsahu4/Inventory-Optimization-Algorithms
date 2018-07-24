@@ -1,0 +1,2 @@
+Demand Mean,Demand Sigma,Fixed Ordering Cost,Cost,Holding Charge(%),Lead Time(Years),Review Period,Cycle Service Level(%),Cost per Stockout Event,Item Fill Rate(%),Cost Per Item Short
+5000,100,3270,25,15,0.01923077,0.07692308,99,50000,99,45

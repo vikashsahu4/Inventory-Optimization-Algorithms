@@ -1,0 +1,2 @@
+Demand Mean,Fixed Ordering Cost,Cost,Holding Charge(%),Lead Time(years),Reorder Point,Cycle Service Level(%),Cost per Stockout Event,Item Fill Rate(%),Cost Per Item Short
+1,3270,25,0.15,0.0192,0.0769,0.95,50000,0.99,45

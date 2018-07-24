@@ -1,0 +1,2 @@
+Demand Mean(units/yr),Demand Sigma(units/yr),Fixed Ordering Cost($/order),Cost($/item),Holding Charge(%/yr),Lead Time(years),Cycle Service Level(%),Cost per Stockout Event($/event),Item Fill Rate(%),Cost Per Item Short($/item/yr)
+62000,8000,3270,100,15,0.03846154,95,50000,99,45
