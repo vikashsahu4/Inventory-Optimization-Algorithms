@@ -1,4 +1,4 @@
-# Nital S Patel - DTW with relaxed constraints and symmetric2 path
+#DTW with relaxed constraints and symmetric2 path
 import numpy as np
 class ForecastRealignment(object):
 
